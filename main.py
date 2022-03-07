@@ -2,11 +2,7 @@
 import pyautogui
 import time
 
-#
-# Made by Ari k.
-# Youtube: Youtube.com/arikchannel
-# Github: github.com/ariksquad
-#
+
 # Variables
 name = str("AriSpammer")
 print("AriModules")
