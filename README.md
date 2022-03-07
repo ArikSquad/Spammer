@@ -1,5 +1,5 @@
 # Spammer
-Spammer for everything. 
+This is a basic spammer for python.
 # Usage
-Run the program and you are ready to go!
-# Made by Myself
+Run the program with python and then input the settings.
+
