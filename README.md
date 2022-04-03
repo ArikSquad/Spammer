@@ -1,3 +1,4 @@
+### THIS PROJECT IS NOT MAINTAINED
 # Spammer
 This is a basic spammer for python.
 # Usage
